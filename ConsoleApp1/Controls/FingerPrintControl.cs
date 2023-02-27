@@ -1230,15 +1230,23 @@ namespace Dofe_Re_Entry.UserControls.DeviceController
                
                     }
 
-                   /* 
-                    if (this.rowCourser == this.limit)
-                    {
-                        this.rowCourser = 0;
-                        return;
+                    /* 
+                     if (this.rowCourser == this.limit)
+                     {
+                         this.rowCourser = 0;
+                         return;
 
+                     }
+               */
+                    //  dataGridView1.Rows[rowIndex].Cells["id"].Value = trainer.id;
+                    if (dataGridView1.Rows[0].Cells["id"].Value == null)
+                    {
+                        // the table is empty
+                        MessageBox.Show("Please select the class first");
+                        return; 
                     }
-              */
                    
+
                     if (rowCourser == 0)
                     {
                         ZKTecoFingerPrintScanner_Implementation.Properties.Settings.Default.served = "loading";
