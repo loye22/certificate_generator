@@ -19,3 +19,9 @@ In addition, our app is designed with security and privacy in mind. All data is 
 With our Certificate Generator app and the 2kT CEO fingerprint hardware scanner, you can trust that your certificates will be accurate, secure, and professional-looking.
 
 Try it out today and take your training program to the next level!
+
+
+![01](https://user-images.githubusercontent.com/65570842/221542597-2d34c361-f34e-4ebe-8ef3-636c35cc2751.png)
+
+![02](https://user-images.githubusercontent.com/65570842/221542614-c54d92a8-70af-46b8-ac05-a100262e3681.png)
+
