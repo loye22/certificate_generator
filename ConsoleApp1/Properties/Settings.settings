@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ZKTecoFingerPrintScanner_Implementation.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="served" Type="System.String" Scope="User">
+      <Value Profile="(Default)">loading</Value>
+    </Setting>
+    <Setting Name="now" Type="System.String" Scope="User">
+      <Value Profile="(Default)">loading</Value>
+    </Setting>
+    <Setting Name="next" Type="System.String" Scope="User">
+      <Value Profile="(Default)">loading</Value>
+    </Setting>
+    <Setting Name="a" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
